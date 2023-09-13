@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">i am anandp👋</h1>
+<h1 align="center">👋 Hello World!!</h1>
 
 ###
 
@@ -101,7 +101,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">me "a" dev</p>
 
 ###
 
@@ -109,3 +109,6 @@
 
 ###
 
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+###
