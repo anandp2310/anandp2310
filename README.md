@@ -31,7 +31,7 @@
 
 ###
 
-<h4 align="left">💫 About Me</h4>
+<h3 align="left">💫 About Me</h3>
 
 ###
 
